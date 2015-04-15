@@ -1,2 +1,3 @@
 # code-challenges
-Code written for programming challenges on the web
+Quick code written for programming challenges on the web.
+
